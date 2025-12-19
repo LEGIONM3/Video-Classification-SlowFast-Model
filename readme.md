@@ -18,3 +18,6 @@ Dataset/
 ## How to Run
 1. Install dependencies: `torch`, `opencv-python`, `scikit-learn`, `numpy`.
 2. Run `python train.py`.
+
+## HuggingFace
+Model Repository Link: https://huggingface.co/LEGIONM36/Video-Classification-SlowFast-Model
